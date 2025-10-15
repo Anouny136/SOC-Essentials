@@ -4,7 +4,7 @@
 > “Security is not a product, it’s a process.” — Bruce Schneier
 
 Welcome to **SOC Essentials**, a one-stop guide for mastering Security Operations.  
-This repo walks you from **beginner to expert**, covering concepts, tools, and real-world scenarios based on 15+ years of hands-on SOC experience.
+This repo walks you from **beginner to expert**, covering concepts, tools, and real-world scenarios based on SOC experience.
 
 ---
 
@@ -12,7 +12,7 @@ This repo walks you from **beginner to expert**, covering concepts, tools, and r
 In modern cybersecurity, the **Security Operations Center (SOC)** is the heartbeat of any organization’s defense.  
 Here, you’ll learn:
 - How SOCs function
-- How tools like **SIEM, EDR, UEBA, XDR, and DLP** work together
+- How tools like **SIEM, EDR, UEBA and DLP** work together
 - How to detect, respond, and hunt threats like a pro
 
 ---
