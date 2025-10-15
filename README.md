@@ -1,39 +1,32 @@
-# 🛡️ SOC-Essentials: From Zero to Expert
-*A Complete Journey into Security Operations, Threat Detection & Response*
+# SOC Essentials
 
-> “Security is not a product, it’s a process.” — Bruce Schneier
+A complete repository to learn, practice, and master Security Operations Center (SOC) skills — from basics to advanced.
 
-Welcome to **SOC Essentials**, a one-stop guide for mastering Security Operations.  
-This repo walks you from **beginner to expert**, covering concepts, tools, and real-world scenarios based on SOC experience.
-
----
-
-## 🚀 Why This Repository
-In modern cybersecurity, the **Security Operations Center (SOC)** is the heartbeat of any organization’s defense.  
-Here, you’ll learn:
-- How SOCs function
-- How tools like **SIEM, EDR, UEBA and DLP** work together
-- How to detect, respond, and hunt threats like a pro
-
----
-
-## 🧩 Structure Overview
-| Section | Description |
-|----------|--------------|
-| 01 - Introduction | Understand SOC fundamentals |
-| 02 - Core Concepts | Learn key security principles |
-| 03 - SIEM | Logs, use cases, and rules |
-| 04 - EDR | Endpoint security and detection |
-| 05 - Network Devices | Firewalls, IDS/IPS, proxies |
-| 06 - DLP | Data protection and response |
-| 07 - UEBA & XDR | Behavior analytics and extended detection |
-| 08 - Threat Hunting | Techniques and MITRE use cases |
-| 09 - Incident Response | Real-world response workflows |
-| 10 - Real Scenarios | Case studies and attack examples |
-| 11 - Advanced Topics | SOAR, Purple Teaming, Automation |
-| 12 - Labs & Resources | Hands-on guides and tools |
+## 📘 Table of Contents
+1. [Introduction to SOC](01-Introduction-to-SOC/README.md)
+2. [Core Concepts](02-Core-Concepts/core-concepts.md)
+3. [SIEM](03-SIEM/siem-basics.md)
+4. [EDR](04-EDR/edr-overview.md)
+5. [UEBA](05-UEBA/ueba-overview.md)
+6. [XDR](06-XDR/xdr-overview.md)
+7. [DLP](07-DLP/dlp-overview.md)
+8. [Security Devices](08-Security-Devices/security-devices.md)
+9. [Incident Response](09-Incident-Response/incident-response.md)
+10. [Real World Scenarios](10-Real-World-Scenarios/real-world-cases.md)
+11. [Learning Resources](11-Learning-Resources/resources.md)
 
 ---
 
-**Maintained by:**  
-👤 Mannu — Cybersecurity Professional | SOC Analyst | OSINT Enthusiast
+### 🎯 Objective
+To provide real-world context, structured learning, and examples for aspiring SOC analysts.
+
+### ⚙️ How to Use
+- Start from “Introduction to SOC”  
+- Follow sequentially through each module  
+- Try out provided scenarios and queries
+
+### 🧩 Contribute
+See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+### ⚖️ License
+Licensed under the [MIT License](LICENSE).
