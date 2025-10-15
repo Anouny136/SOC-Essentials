@@ -36,4 +36,4 @@ Here, you’ll learn:
 ---
 
 **Maintained by:**  
-👤 Mannu — Cybersecurity Professional | SOC Architect | OSINT Enthusiast
+👤 Mannu — Cybersecurity Professional | SOC Analyst | OSINT Enthusiast
