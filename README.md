@@ -15,8 +15,8 @@ A complete repository to learn, practice, and master Security Operations Center 
 10. [Real World Scenarios](10-Real-World-Scenarios/real-world-cases.md)
 11. [Learning Resources](11-Learning-Resources/resources.md)
 12. [IAM](12-IAM/IAM.md)
-13. [CyberKillChain](13-Cyber Killchain & MITRE/CCM.md)
-14. 
+13. [CyberKillchain](13-Cyber Killchain & MITRE/CCM.md)
+    
 
 ---
 
